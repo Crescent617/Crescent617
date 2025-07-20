@@ -1,38 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Code+is+cheap.+Show+me+the+idea" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sans&size=30&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Code+is+cheap.+Show+me+the+idea." />
 </p>
 
 ## 🧩 About Me
 
-- 🎮 Fan of **Neovim** and **NixOS**
-- 🦀 Currently learning **Rust**
-- 🐹 Also digging into **Golang** and **Frontend**
-- 🌟 Interested in game, animation and AI.
+- ❄️ Fan of **Neovim** and **NixOS**
+- ♥️ Interested in TUI apps, game, animation and AI.
 - 🤝 Open for collaboration!
 - 📫 Reach me: [crescent617@outlook.com](mailto:crescent617@outlook.com)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Crescent617&show_icons=true&theme=tokyonight&hide=issues" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescent617&layout=compact&theme=tokyonight" />
-</div>
+- 💻 Techstack: <img src="https://skillicons.dev/icons?i=golang,python,typescript,javascript,react,rust,docker" height="24" />
 
 ---
 
 ## 🌌 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crescent617&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crescent617&hide_border=true&theme=react-dark" />
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="mailto:crescent617@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Crescent617"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Crescent617&show_icons=true&hide=issues&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescent617&layout=compact&theme=tokyonight" />
+</div>
