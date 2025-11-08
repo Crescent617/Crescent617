@@ -8,7 +8,7 @@
 - ♥️ Interested in TUI apps, game, animation and AI.
 - 🤝 Open for collaboration!
 - 📫 Reach me: [crescent617@outlook.com](mailto:crescent617@outlook.com)
-- 💻 Tech stack: <img src="https://skillicons.dev/icons?i=golang,python,typescript,javascript,react,rust,docker,mysql" height="24" />
+- 💻 Tech stack: <img src="https://skillicons.dev/icons?i=rust,golang,python,typescript,javascript,svelte,react,docker,mysql" height="24" />
 
 ---
 
