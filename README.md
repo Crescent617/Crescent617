@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sans&size=30&pause=500&center=true&vCenter=true&width=600&lines=Code+is+cheap.+Show+me+the+idea." />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans&size=25&duration=3000&pause=1000&color=06303D&center=true&vCenter=true&width=600&lines=%F0%9F%91%BB+Code+is+cheap.+Show+me+the+idea." alt="Typing SVG" /></a>
 </p>
 
 ## 🧩 About Me
@@ -12,17 +12,9 @@
 
 ---
 
-## 🌌 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crescent617&hide_border=true&theme=react-dark" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Crescent617&show_icons=true&hide=issues&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crescent617&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crescent617&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Crescent617&show_icons=true&hide=issues" />
 </div>
